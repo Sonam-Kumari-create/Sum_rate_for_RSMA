@@ -35,7 +35,7 @@ and generates the **Sum Rate vs. SNR** performance plot.
 
 ## 📊 Simulation Results
 <p align="center">
-<img src="images/sms-alert.png" width="350">
+<img src="Simulation_Results.png" width="350">
 </p>
 
 ## 📌 Applications
