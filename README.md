@@ -33,6 +33,11 @@ and generates the **Sum Rate vs. SNR** performance plot.
 | Monte Carlo Runs | 10,000          |
 | Users            | 2               |
 
+## 📊 Simulation Results
+<p align="center">
+<img src="images/sms-alert.png" width="350">
+</p>
+
 ## 📌 Applications
 
 * 5G & 6G Research
